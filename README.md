@@ -10,4 +10,14 @@ Tableau Project to visualize how Video Game Sales how changed from the 1980s to 
 # Findings
 - Videogame sales have decreased dratically since 2008
 - All genres are sharing this trend
-- Wii-Sports made is the most sucessful game of all time make more than $80 million 
+- Wii-Sports made is the most sucessful game of all time, selling more than 80 million units
+- Nintendo is the most sucessfull publisher of all time, selling close to 2 billion units
+- Japan contains a large portion of the market
+
+![VideoGamesSales](https://user-images.githubusercontent.com/113700029/223021694-1bdb7946-b046-43d6-80ca-1ee368dd6fc6.png)
+
+# Next Steps
+- Investigate further into the Japanese video game market and see how it compares the market in other countries
+- Look for more recent video game sales data to extend the data visualization up to 2022
+
+The following data comes from the [Video Games Sales dataset on Kaggle](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
