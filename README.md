@@ -14,10 +14,11 @@ Tableau Project to visualize how Video Game Sales how changed from the 1980s to 
 - Nintendo is the most sucessfull publisher of all time, selling close to 2 billion units
 - Japan contains a large portion of the market
 
-![VideoGamesSales](https://user-images.githubusercontent.com/113700029/223021694-1bdb7946-b046-43d6-80ca-1ee368dd6fc6.png)
+![Video Game Sales](https://user-images.githubusercontent.com/113700029/223207017-cf6f02da-ec21-4ea5-b693-2c39204e5856.png)
 
 # Next Steps
 - Investigate further into the Japanese video game market and see how it compares the market in other countries
 - Look for more recent video game sales data to extend the data visualization up to 2022
 
 The following data comes from the [Video Games Sales dataset on Kaggle](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
+
