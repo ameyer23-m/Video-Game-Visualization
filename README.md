@@ -3,7 +3,7 @@
 Tableau
 
 # Summary of Project
-Tableau Project to visualize how Video Game Sales how changed from the 1980s to 2016. To view the Tableau visualization please visit my Tablaue Public profile:
+Tableau Project to visualize how Video Game Sales how changed from the 1980s to 2016. To view the Tableau visualization please visit my Tableau Public profile:
 
 [Video Game Sales](https://public.tableau.com/app/profile/adam.meyer8878/viz/VideoGameSales_16778733011190/Dashboard1)
 
